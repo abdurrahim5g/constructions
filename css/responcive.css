@@ -1,0 +1,942 @@
+/* media quary max-width-1600px start 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 1600px) {
+
+/* header area start
+----------------------------------------------------------------------*/
+
+/* header area end
+----------------------------------------------------------------------*/
+
+
+
+
+
+
+}
+/* media quary max-width-1600px end 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+/* media quary max-width-1400px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 1400px) {
+
+/* header area start
+----------------------------------------------------------------------*/
+
+
+/* header area end
+----------------------------------------------------------------------*/
+
+
+
+}
+/* media quary max-width-1400px end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+/* media quary max-width-1200px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 1200px) {
+
+/* header area start
+----------------------------------------------------------------------*/
+.header-logo-area .col-lg-4:first-child {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+    margin: 0 0 30px;
+}
+
+.header-logo-area .col-lg-3, 
+.header-logo-area .col-lg-2 {
+    flex: 0 0 33.33333333333333333%;
+    max-width: 33.3333333333333333333333333333%;
+}
+
+/* header area start
+----------------------------------------------------------------------*/
+
+/* latest-projects-area start ========================*/
+section.latest-projects-area .tab-area button{
+    max-width: 130px;
+}
+
+.latest-projects-content .block-box .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+}
+
+.latest-projects-content .block-box h5 {
+    font-size: 16px;
+}
+
+.latest-projects-content .block-box p {
+    font-size: 12px;
+}
+/* latest-projects-area end ========================*/
+
+/* why-chose-area start ==================*/
+.accordion-container .article-title {
+    font-size: 16px;
+}
+/* why-chose-area end ==================*/
+
+/* footer area start ====================*/
+.footer-socia ul li a {
+    margin: 0 2px 0 0;
+}
+
+footer.main-footer-area .footer-header {
+    padding: 65px 0;
+}
+/* footer area end ====================*/
+
+/* breadcrumb-area start =======================*/
+section.breadcrumbs-area {
+    padding: 30px 0;
+}
+/* breadcrumb-area end =======================*/
+
+/* section.about-area start ===========================*/
+section.about-area {
+    padding: 60px 0 65px;
+}
+.about-content p br:first-child {
+    display: none;
+}
+section.mission-area {
+    padding: 65px 0;
+}
+.mission-content.about-content p {
+    margin: 0;
+}
+.mission-content ul li {
+    margin: 0 0 10px;
+}
+section.client-logo-area .logo-box {
+    height: 100px;
+    max-width: 100%;
+}
+section.client-logo-area .row {
+    margin: 0 !important;
+}
+section.client-logo-area .logo-box img {
+    max-width: 90px !important;
+}
+/* section.about-area end ===========================*/
+
+/* ul.sider-manu-bar ===============*/ 
+ul.sider-manu-bar li a {
+    font-size: 12px;
+    padding: 8px 11px 7px;
+}
+section.service-detail-area .service-box {
+    padding: 25px 55px;
+}
+section.service-detail-area .service-box p {
+    font-size: 20px;
+}
+section.service-detail-area .service-box .box-btn a {
+    line-height: 35px;
+}
+/* ul.sider-manu-bar ===============*/ 
+
+
+
+}
+/* media quary max-width-1200px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+/* media quary max-width-991px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 991px) {
+    
+body{
+    font-size: 12px;
+}
+
+/* header area start
+------------------------------------------------------------------*/
+
+/* slick vav start -------------------*/
+
+nav.nagivation-area .slicknav_menu {
+    display: block;
+    padding: 5px 0;
+}
+
+nav.nagivation-area ul#menu li {
+    display: none;
+}
+nav.nagivation-area ul#menu li a {
+    font-size: 14px;
+}
+
+nav.nagivation-area .col-lg-2 {
+    width: 100px;
+    position: absolute;
+    right: 5px;
+    top: 17px;
+}
+
+/* slick vav end -------------------*/
+
+.logo-area a img {
+    max-width: 150px;
+}
+
+.header-contact-info .icon i {
+    width: 30px;
+    height: 30px;
+    line-height: 28px;
+}
+
+.header-contact-info h5 {
+    font-size: 16px;
+    line-height: 1;
+}
+
+.header-contact-info h6 {
+    font-size: 12px;
+}
+
+.box-btn a {
+    line-height: 35px;
+}
+
+/* header area start
+------------------------------------------------------------------*/
+
+
+/* hero area start ================================*/
+.single-hero-slider {
+    padding: 115px 0;
+}
+
+.hero-content h2 {
+    font-size: 35px;
+}
+
+.hero-content {
+    max-width: 480px;
+}
+
+.hero-content p {
+    font-size: 14px;
+    margin: 0 0 30px;
+}
+
+.hero-btn.box-btn a {
+    max-width: 150px;
+    line-height: 40px;
+    font-size: 13px;
+}
+
+/* hero area end ================================*/
+
+/* box-one area start ==============================*/
+section.box-one .box-btn {
+    text-align: center;
+    margin: 20px 0 0 0;
+}
+
+section.box-one {
+    text-align: center;
+    padding: 25px 0;
+}
+
+.box-content h4 {
+    font-size: 20px;
+}
+
+.box-content .box-btn a {
+    border: 1px solid #fff;
+    max-width: 150px;
+    line-height: 35px;
+    font-size: 13px;
+}
+/* box-one area end ==============================*/
+
+/* work-box-area start =========================*/
+section.work-box-area .col-lg-4 {
+    flex: 0 0 100%;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+}
+
+section.work-box-area .col-lg-4:last-child {
+    margin-bottom: 0;
+}
+/* work-box-area end =========================*/
+
+/* .latest-projects-header start ==========================*/
+.latest-projects-header {
+    padding: 60px 0 30px;
+}
+
+.section-title h2 {
+    font-size: 20px !important;
+    margin: 0 0 35px;
+}
+
+section.latest-projects-area .tab-area button {
+    line-height: 28px;
+    display: block;
+    margin: auto;
+    max-width: 150px;
+}
+
+.latest-projects-content .tabcontent .col-lg-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    flex-wrap: wrap;
+}
+
+.latest-projects-content .d-flex {
+    flex-wrap: wrap;
+}
+/* .latest-projects-header end ==========================*/
+
+/* why-chose-are start ===================*/
+section.why-chose-area .col-lg-6:first-child {
+    margin: 0 0 50px;
+}
+/* why-chose-are end ===================*/
+
+/* box-two area start ===================*/
+section.box-two {
+    padding: 60px 0;
+}
+
+section.box-two .col-lg-6:first-child {
+    margin: 0 0 50px;
+}
+
+section.box-two .col-lg-6 .col-lg-4 {
+    flex: 0 0 33.3333333333333333333%;
+}
+/* box-two area end ===================*/
+
+/* best-offer-area start ===========================*/
+section.best-offer-area {
+    padding: 60px 0 30px;
+}
+
+section.best-offer-area .col-lg-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin: 0 0 30px;
+}
+section.best-offer-area .single-offer img {
+    width: 80px;
+}
+
+/* best-offer-area end ===========================*/
+
+/* testmonial-and-client-area start ================*/
+section.testmonial-and-client-area {
+    padding: 60px 0;
+}
+
+section.testmonial-and-client-area .col-lg-6:first-child {
+    margin: 0 0 50px;
+}
+/* testmonial-and-client-area end ================*/
+
+/* footer area start ====================*/
+footer.main-footer-area .footer-header .col-lg-3 .single-footer-item {
+    margin: 0 0 50px;
+    max-width: 500px;
+}
+footer.main-footer-area .footer-header .col-lg-3:last-child .single-footer-item {
+    margin: 0;
+}
+.footer-content .single-contact:last-child {
+    margin: 0;
+}
+.footer-copyright-area .row {
+    flex-direction: column-reverse;
+    text-align: center;
+}
+.footer-manu ul {
+    text-align: center;
+    margin: 0 0 25px;
+}
+.footer-content .single-contact {
+    margin: 0 0 15px;
+}
+/* footer area start ====================*/
+
+/* breadcrumb-area start =======================*/
+section.blog-area {
+    max-width: 800px;
+    margin: auto;
+    padding: 65px 0 30px;
+}
+section.breadcrumbs-area .col-lg-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.single-blog-box .blog-box-content {
+    padding: 35px 35px 35px 35px;
+}
+
+section.blog-area .single-widget-area:first-child {
+    margin-top: 50px;
+}
+
+section.blog-area .col-lg-3 {
+    max-width: 700px;
+}
+.blog-box-content h4 a {
+    font-size: 20px;
+}
+/* breadcrumb-area end =======================*/
+
+/* blog area start ==================*/
+section.blog-area .single-block-box .blog-box-content {
+    padding: 30px;
+}
+
+.blog-author {
+    padding: 30px 30px 40px 30px;
+    margin-bottom: 40px;
+}
+
+.comment-content p {
+    font-size: 14px;
+}
+
+.single-comment {
+    margin: 0;
+}
+.sub-img img {
+    margin: 0 0 20px;
+}
+/* blog area end ==================*/
+
+/* latest-projects-area.main-page start ==========================*/
+section.latest-projects-area.main-page .col-lg-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+section.latest-projects-area.main-page .latest-btn {
+    padding: 35px 0 50px;
+}
+section.latest-projects-area.main-page .box-btn a {
+    height: 35px;
+    font-size: 13px;
+    max-width: 150px;
+}
+section.latest-projects-area.main-page .col-lg-12 a{
+    font-size: 14px;
+}
+/* latest-projects-area.main-page start ==========================*/
+
+/* section.about-area start ===========================*/
+section.about-area .col-lg-6:first-child {
+    flex: 0 0 40%;
+    max-width: 40%;
+}
+section.about-area .col-lg-6:last-child {
+    flex: 0 0 60%;
+    max-width: 60%;
+}
+section.about-area {
+    padding: 65px 0 50px;
+}
+
+section.mission-area .col-lg-6:first-child {
+    flex: 0 0 60%;
+    max-width: 60%;
+}
+section.mission-area .col-lg-6:last-child{
+    flex: 0 0 40%;
+    max-width: 40%;
+}
+
+section.teem-area {
+    padding: 65px 0;
+}
+/* section.about-area end ===========================*/
+
+/* section.service-detail-area start =====================*/
+section.service-detail-area {
+    padding: 65px 0 15px;
+}
+section.service-detail-area .col-lg-3 {
+    max-width: 700px;
+}
+.sidebar-manu {
+    margin: 0 0 35px;
+}
+section.service-detail-area .single-footer-item {
+    margin: 0 0 35px;
+}
+section.service-detail-area .business-service br {
+    display: none;
+}
+section.service-detail-area .col-lg-9 .col-lg-12, 
+section.service-detail-area .col-lg-9 .col-lg-6 {
+    margin: 0 0 30px;
+}
+section.service-detail-area .service-box .box-btn a {
+    float: none;
+}
+/* section.service-detail-area start =====================*/
+
+/* section.project-detail-area start =========================*/
+section.project-detail-area {
+    padding: 65px 0 60px;
+}
+section.project-detail-area .projects-describtion {
+    margin: 0 0 25px;
+}
+section.project-detail-area .section-title h2 {
+    margin: 0 0 25px;
+}
+/* section.project-detail-area end =========================*/
+
+/* section.our-service-area start =====================*/
+section.our-service-area {
+    padding: 65px 0 10px;
+}
+/* section.our-service-area end =====================*/
+
+/* section.comment-area start =====================*/
+section.comment-area {
+    padding: 65px 0;
+}
+section.comment-area iframe {
+    max-height: 300px;
+}
+section.comment-area .contact-map {
+    margin: 0 0 30px;
+}
+section.comment-area .footer-content {
+    margin: 0 0 20px;
+}
+/* section.comment-area end =====================*/
+
+
+
+}
+/* media quary max-width-991px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* media quary max-width-767px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 767px) {
+
+/* header area start
+---------------------------------------*/
+.header-logo-area {
+    margin: auto;
+    padding: 20px 0 0 0;
+}
+
+.header-logo-area .col-lg-3, 
+.header-logo-area .col-lg-2,
+.header-logo-area .col-lg-4 {
+    flex: 0 0 100% !important;
+    max-width: 580px !important;
+    margin-bottom: 20px;
+    text-align: left !important;
+}
+
+.get-quote-area {
+    text-align: left !important;
+}
+
+/* latest-projects-content start =======================*/
+.latest-projects-content .tabcontent .col-lg-3 {
+    flex: 0 0 100%;
+    max-width: 580px;
+    margin: auto;
+}
+
+.latest-projects-content .tabcontent .col-lg-3 .single-projects {
+    max-height: 500px;
+}
+/* latest-projects-content end =======================*/
+
+/* testmonial-and-client-area start ================*/
+.client-logo ul li {
+    flex: 0 0 50%;
+    max-width: 49.5%;
+    max-height: 100px !important;
+}
+/* testmonial-and-client-area end ================*/
+
+/* best-offer-area start ===========================*/
+section.best-offer-area .col-lg-3 {
+    flex: 0 0 100%;
+    max-width: 580px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* best-offer-area end ===========================*/
+
+/* author-area start ========================*/
+.author-about p {
+    padding: 20px 25px;
+}
+.testmonial-content .author-about:after {
+    left: 25px;
+}
+.author-details {
+    padding: 0;
+}
+.author-details img {
+    max-width: 60px;
+    max-height: 60px;
+}
+.author-details .author h6 {
+    font-size: 14px;
+}
+.author-details .author h6 span {
+    font-size: 12px;
+}
+.author-details .author .rating {
+    right: 0;
+}
+/* author-area start ========================*/
+
+/* why chose area start =================*/
+.accordion-container .article-title {
+    padding: 11px 20px 12px 40px;
+}
+
+.accordion-container .content-entry i {
+    top: 11px;
+    left: 15px;
+}
+article.content-entry .accordion-content {
+    padding: 25px 40px 5px;
+}
+/* why chose area start =================*/
+
+
+/* footer area start ==========================*/
+.footer-manu ul li {
+    display: block;
+}
+
+.footer-manu ul li a {
+    display: inline-block;
+    border: 0;
+    padding: 3px 10px;
+}
+/* footer area end ==========================*/
+
+/* breadcrumb-area start =======================*/
+.single-blog-box .blog-box-content {
+    padding: 25px;
+}
+section.breadcrumbs-area .col-lg-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+}
+.breadcrumb-manu ul {
+    text-align: center;
+    margin-top: 15px;
+}
+/* breadcrumb-area end =======================*/
+
+/* .blog-box-content start =======================*/
+section.blog-area .single-block-box .blog-box-content {
+    padding: 15px;
+}
+.blog-box-content .quote {
+    padding: 20px;
+}
+.blog-author .blog-author-content {
+    padding: 0;
+}
+.blog-author .blog-author-content img {
+    max-width: 70px;
+    position: static;
+    margin: 0 0 20px;
+}
+.blog-author {
+    padding: 20px 20px 10px 20px;
+}
+.single-comment .comment-img {
+    position: static;
+    margin: 0 0 20px;
+}
+.single-comment .comment-img img {
+    max-width: 70px;
+}
+.single-comment.reply {
+    padding-left: 120px;
+}
+.comment-content p {
+    font-size: 12px;
+}
+.comment-box form .input-box {
+    max-width: 100%;
+    width: 100%;
+}
+.comment-box form .input-box:nth-child(2) {
+    margin: 0 !important;
+}
+.single-widget-area {
+    max-width: 500px;
+}
+.single-comment {
+    padding: 0;
+}
+
+.single-comment.reply .comment-img {
+    max-width: 70px;
+    left: 20px;
+}
+.comment-box form input {
+    padding: 5px 15px;
+}
+
+.comment-box form textarea {
+    padding: 5px 15px;
+    max-height: 100px;
+}
+.single-comment .comment-content h5 {
+    font-size: 14px;
+}
+
+.single-comment .comment-content ul.reply li {
+    font-size: 10px;
+}
+
+.single-comment .comment-content ul.reply li a {
+    font-size: 10px;
+}
+
+.single-comment .comment-content ul.reply li:last-child {
+    margin: 0 0 0 10px;
+}
+/* .blog-box-content start =======================*/
+
+
+/* latest-projects-area.main-page start ==========================*/
+section.latest-projects-area.main-page .col-lg-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+section.latest-projects-area.main-page .col-lg-12 li.nav-item {
+    display: block !important;
+    margin: 0 0 9px;
+}
+section.latest-projects-area.main-page .col-lg-12 li.nav-item a {
+    display: inline-block;
+    padding: 0 0 2px;
+}
+section.latest-projects-area.main-page .col-lg-12 ul {
+    text-align: left !important;
+}
+/* latest-projects-area.main-page start ==========================*/
+
+/* section.about-area start =========================*/
+section.about-area .col-lg-6 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+}
+section.about-area .about-img img {
+    margin: 0 0 30px;
+}
+section.mission-area .col-lg-6 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+}
+section.mission-area .col-lg-6:first-child {
+    margin: 0 0 30px;
+}
+/* section.about-area end =========================*/
+
+/* section.service-detail-area start ===========================*/
+section.service-detail-area .single-contact {
+    margin: 0 0 15px;
+}
+section.service-detail-area .service-box {
+    padding: 15px 30px;
+}
+section.service-detail-area .service-box p {
+    font-size: 18px;
+}
+
+section.service-detail-area .service-box .box-btn a {
+    max-width: 150px;
+    line-height: 30px;
+}
+/* section.service-detail-area end ===========================*/
+
+
+
+}
+/* media quary max-width-767px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+/* media quary max-width-575.98px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 575.98px) {
+/* header area star ========================================================*/
+.header-top-area .col-lg-4, 
+.header-top-area .col-lg-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center !important;
+}
+
+.header-top-area .col-lg-4 {
+    border-bottom: 1px solid #efe8e8;
+}
+
+.header-top-area {
+    border-bottom: 1px solid #efe8e8;
+}
+
+.header-top-area .col-lg-8 ul {
+    text-align: center;
+}
+
+.header-top-area .time-meta ul li {
+    padding: 0 3px;
+    display: block;
+    border: 0;
+    margin-top: 10px;
+}
+/* header area end ======================================================*/
+
+/* hero-area start ===================================*/
+.single-hero-slider {
+    padding: 100px 0;
+}
+
+.hero-content h2 {
+    font-size: 28px;
+}
+
+.hero-btn.box-btn a {
+    line-height: 30px;
+    font-size: 12px;
+}
+/* hero-area end ===================================*/
+
+/* box-one start ================================*/
+.box-content h4 {
+    font-size: 16px;
+}
+
+.box-content .box-btn a {
+    line-height: 25px;
+    font-size: 12px;
+}
+/* box-one end ================================*/
+
+/* why-chose-area srart =============================*/
+.single-news-content {
+    padding: 16px !important;
+}
+/* why-chose-area end =============================*/
+
+
+/* box-two area start =======================*/
+section.box-two .col-lg-6 .col-lg-4 {
+    flex: 0 0 100%;
+    max-width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+section.box-two .col-lg-6 .col-lg-4:last-child {
+    margin-bottom: 0;
+}
+/* box-two area end =======================*/
+
+/* testmonial-and-client-area start ================*/
+.client-logo ul li {
+    flex: 0 0 100%;
+    max-width: 400px;
+    margin: 0 auto 5px auto;
+}
+/* testmonial-and-client-area end ================*/
+
+/* blog-author ===========================*/
+.blog-author .blog-author-content {
+    padding: 0;
+}
+.blog-author .blog-author-content img {
+    max-width: 40px;
+}
+.single-comment .comment-img img {
+    max-width: 40px;
+}
+
+.single-comment.reply {
+    padding-left: 0;
+}
+/* blog-author ===========================*/
+
+/* client-logo-area start =======================*/
+section.client-logo-area .logo-box {
+    height: 85px;
+}
+/*  client-logo-area end =======================*/
+
+
+}
+/* media quary max-width-575.98px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+/* media quary max-width-480px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 480px) {
+
+
+
+
+
+
+
+}
+/* media quary max-width-480px end =============================*/
